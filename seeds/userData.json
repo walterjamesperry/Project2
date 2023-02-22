@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "name": "Mathew Wyatt",
+        "email": "mw@email.com",
+        "password": "12"
+    },
+    {
+        "id": "2",
+        "name": "Jonathan Cline",
+        "email": "jc@email.com",
+        "password": "23"
+    },
+    {
+        "id": "3",
+        "name": "Boris Kambeu Kamsu",
+        "email": "bk@email.com",
+        "password": "34"
+    },
+    {
+        "id": "4",
+        "name": "Jasiel Andrade",
+        "email": "ja@email.com",
+        "password": "45"
+    },
+    {
+        "id": "5",
+        "name": "Spencer Fields",
+        "email": "sf@email.com",
+        "password": "56"
+    }
+]
